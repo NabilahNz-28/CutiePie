@@ -3,6 +3,9 @@
 A visually rich, interactive **front-end** web application built with **Vue 3 + TypeScript + Vite**, themed around a cute pixel-art bakery experience.
 
 > **Note:** This project is currently a **UI/UX prototype**. It focuses on interface design, component architecture, and user interaction patterns. Backend integration (authentication, payment, real order processing) is planned for a future phase.
+<img width="1280" height="890" alt="image" src="https://github.com/user-attachments/assets/1da55711-c554-4784-9bf9-5c653fea000b" />
+<img width="1272" height="807" alt="image" src="https://github.com/user-attachments/assets/31d7a09f-c5f5-4926-8733-0088e0878dc4" />
+
 
 ---
 
@@ -47,6 +50,8 @@ npm run build
 
 The app will be available at `http://localhost:5173`.
 
+<img width="1284" height="883" alt="image" src="https://github.com/user-attachments/assets/352c8b5a-e5cb-4ac7-89f5-540f204cac30" />
+
 ---
 
 ## 📁 Project Structure
@@ -88,6 +93,7 @@ src/
 - **Sprite Sheet** — kawaii illustration grid with precise CSS background cropping
 
 ---
+
 
 ## 📄 License
 
